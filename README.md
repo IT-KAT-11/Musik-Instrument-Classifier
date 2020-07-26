@@ -1,7 +1,7 @@
 # Musik-Instrument-Classifier
 Audio Classification
 
-In diesem Projekt Wurde:
+In diesem Projekt:
 -Deep Learning
 -Python
 -Musikinstrumenten Wav-Dateien
